@@ -1,4 +1,7 @@
-﻿// Definición de la clase Estrella
+﻿//Nombre: Ariel Paz
+//Fecha: 03/12/2024
+//--------------------------codigo-------------------------\\
+// Definición de la clase Estrella
 public class Estrella
 {
     // Declaración de una variable privada para almacenar la longitud del lado de la estrella
