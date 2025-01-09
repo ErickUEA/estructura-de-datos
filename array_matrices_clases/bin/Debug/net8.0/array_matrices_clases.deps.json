@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "array_matrices_clases/1.0.0": {
+        "runtime": {
+          "array_matrices_clases.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "array_matrices_clases/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
