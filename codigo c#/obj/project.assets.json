@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\Documents\\UEA\\Semestre 3\\Estructura de datos\\programas\\codigo1\\codigo1.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\Documents\\UEA\\Semestre 3\\Estructura de datos\\programs\\codigo c#\\codigo1.csproj",
       "projectName": "codigo1",
-      "projectPath": "C:\\Users\\HP\\Documents\\UEA\\Semestre 3\\Estructura de datos\\programas\\codigo1\\codigo1.csproj",
+      "projectPath": "C:\\Users\\HP\\Documents\\UEA\\Semestre 3\\Estructura de datos\\programs\\codigo c#\\codigo1.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\Documents\\UEA\\Semestre 3\\Estructura de datos\\programas\\codigo1\\obj\\",
+      "outputPath": "C:\\Users\\HP\\Documents\\UEA\\Semestre 3\\Estructura de datos\\programs\\codigo c#\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"
