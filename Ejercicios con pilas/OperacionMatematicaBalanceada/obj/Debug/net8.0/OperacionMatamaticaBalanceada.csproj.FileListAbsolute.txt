@@ -1,0 +1,30 @@
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\OperacionMatematicaBalanceada\bin\Debug\net8.0\OperacionMatamaticaBalanceada.exe
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\OperacionMatematicaBalanceada\bin\Debug\net8.0\OperacionMatamaticaBalanceada.deps.json
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\OperacionMatematicaBalanceada\bin\Debug\net8.0\OperacionMatamaticaBalanceada.runtimeconfig.json
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\OperacionMatematicaBalanceada\bin\Debug\net8.0\OperacionMatamaticaBalanceada.dll
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\OperacionMatematicaBalanceada\bin\Debug\net8.0\OperacionMatamaticaBalanceada.pdb
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\OperacionMatematicaBalanceada\obj\Debug\net8.0\OperacionMatamaticaBalanceada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\OperacionMatematicaBalanceada\obj\Debug\net8.0\OperacionMatamaticaBalanceada.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\OperacionMatematicaBalanceada\obj\Debug\net8.0\OperacionMatamaticaBalanceada.AssemblyInfo.cs
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\OperacionMatematicaBalanceada\obj\Debug\net8.0\OperacionMatamaticaBalanceada.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\OperacionMatematicaBalanceada\obj\Debug\net8.0\OperacionMatamaticaBalanceada.sourcelink.json
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\OperacionMatematicaBalanceada\obj\Debug\net8.0\OperacionMatamaticaBalanceada.dll
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\OperacionMatematicaBalanceada\obj\Debug\net8.0\refint\OperacionMatamaticaBalanceada.dll
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\OperacionMatematicaBalanceada\obj\Debug\net8.0\OperacionMatamaticaBalanceada.pdb
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\OperacionMatematicaBalanceada\obj\Debug\net8.0\OperacionMatamaticaBalanceada.genruntimeconfig.cache
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\OperacionMatematicaBalanceada\obj\Debug\net8.0\ref\OperacionMatamaticaBalanceada.dll
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\Ejercicios con pilas\OperacionMatematicaBalanceada\bin\Debug\net8.0\OperacionMatamaticaBalanceada.exe
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\Ejercicios con pilas\OperacionMatematicaBalanceada\bin\Debug\net8.0\OperacionMatamaticaBalanceada.deps.json
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\Ejercicios con pilas\OperacionMatematicaBalanceada\bin\Debug\net8.0\OperacionMatamaticaBalanceada.runtimeconfig.json
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\Ejercicios con pilas\OperacionMatematicaBalanceada\bin\Debug\net8.0\OperacionMatamaticaBalanceada.dll
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\Ejercicios con pilas\OperacionMatematicaBalanceada\bin\Debug\net8.0\OperacionMatamaticaBalanceada.pdb
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\Ejercicios con pilas\OperacionMatematicaBalanceada\obj\Debug\net8.0\OperacionMatamaticaBalanceada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\Ejercicios con pilas\OperacionMatematicaBalanceada\obj\Debug\net8.0\OperacionMatamaticaBalanceada.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\Ejercicios con pilas\OperacionMatematicaBalanceada\obj\Debug\net8.0\OperacionMatamaticaBalanceada.AssemblyInfo.cs
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\Ejercicios con pilas\OperacionMatematicaBalanceada\obj\Debug\net8.0\OperacionMatamaticaBalanceada.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\Ejercicios con pilas\OperacionMatematicaBalanceada\obj\Debug\net8.0\OperacionMatamaticaBalanceada.sourcelink.json
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\Ejercicios con pilas\OperacionMatematicaBalanceada\obj\Debug\net8.0\OperacionMatamaticaBalanceada.dll
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\Ejercicios con pilas\OperacionMatematicaBalanceada\obj\Debug\net8.0\refint\OperacionMatamaticaBalanceada.dll
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\Ejercicios con pilas\OperacionMatematicaBalanceada\obj\Debug\net8.0\OperacionMatamaticaBalanceada.pdb
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\Ejercicios con pilas\OperacionMatematicaBalanceada\obj\Debug\net8.0\OperacionMatamaticaBalanceada.genruntimeconfig.cache
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\Ejercicios con pilas\OperacionMatematicaBalanceada\obj\Debug\net8.0\ref\OperacionMatamaticaBalanceada.dll

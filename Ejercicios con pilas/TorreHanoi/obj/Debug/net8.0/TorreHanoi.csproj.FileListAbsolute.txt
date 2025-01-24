@@ -1,0 +1,15 @@
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\Ejercicios con pilas\TorreHanoi\bin\Debug\net8.0\TorreHanoi.exe
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\Ejercicios con pilas\TorreHanoi\bin\Debug\net8.0\TorreHanoi.deps.json
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\Ejercicios con pilas\TorreHanoi\bin\Debug\net8.0\TorreHanoi.runtimeconfig.json
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\Ejercicios con pilas\TorreHanoi\bin\Debug\net8.0\TorreHanoi.dll
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\Ejercicios con pilas\TorreHanoi\bin\Debug\net8.0\TorreHanoi.pdb
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\Ejercicios con pilas\TorreHanoi\obj\Debug\net8.0\TorreHanoi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\Ejercicios con pilas\TorreHanoi\obj\Debug\net8.0\TorreHanoi.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\Ejercicios con pilas\TorreHanoi\obj\Debug\net8.0\TorreHanoi.AssemblyInfo.cs
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\Ejercicios con pilas\TorreHanoi\obj\Debug\net8.0\TorreHanoi.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\Ejercicios con pilas\TorreHanoi\obj\Debug\net8.0\TorreHanoi.sourcelink.json
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\Ejercicios con pilas\TorreHanoi\obj\Debug\net8.0\TorreHanoi.dll
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\Ejercicios con pilas\TorreHanoi\obj\Debug\net8.0\refint\TorreHanoi.dll
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\Ejercicios con pilas\TorreHanoi\obj\Debug\net8.0\TorreHanoi.pdb
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\Ejercicios con pilas\TorreHanoi\obj\Debug\net8.0\TorreHanoi.genruntimeconfig.cache
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\Ejercicios con pilas\TorreHanoi\obj\Debug\net8.0\ref\TorreHanoi.dll
