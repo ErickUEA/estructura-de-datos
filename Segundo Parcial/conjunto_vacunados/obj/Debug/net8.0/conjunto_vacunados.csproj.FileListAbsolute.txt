@@ -1,0 +1,15 @@
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\Segundo Parcial\conjunto_vacunados\bin\Debug\net8.0\conjunto_vacunados.exe
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\Segundo Parcial\conjunto_vacunados\bin\Debug\net8.0\conjunto_vacunados.deps.json
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\Segundo Parcial\conjunto_vacunados\bin\Debug\net8.0\conjunto_vacunados.runtimeconfig.json
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\Segundo Parcial\conjunto_vacunados\bin\Debug\net8.0\conjunto_vacunados.dll
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\Segundo Parcial\conjunto_vacunados\bin\Debug\net8.0\conjunto_vacunados.pdb
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\Segundo Parcial\conjunto_vacunados\obj\Debug\net8.0\conjunto_vacunados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\Segundo Parcial\conjunto_vacunados\obj\Debug\net8.0\conjunto_vacunados.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\Segundo Parcial\conjunto_vacunados\obj\Debug\net8.0\conjunto_vacunados.AssemblyInfo.cs
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\Segundo Parcial\conjunto_vacunados\obj\Debug\net8.0\conjunto_vacunados.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\Segundo Parcial\conjunto_vacunados\obj\Debug\net8.0\conjunto_vacunados.sourcelink.json
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\Segundo Parcial\conjunto_vacunados\obj\Debug\net8.0\conjunto_vacunados.dll
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\Segundo Parcial\conjunto_vacunados\obj\Debug\net8.0\refint\conjunto_vacunados.dll
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\Segundo Parcial\conjunto_vacunados\obj\Debug\net8.0\conjunto_vacunados.pdb
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\Segundo Parcial\conjunto_vacunados\obj\Debug\net8.0\conjunto_vacunados.genruntimeconfig.cache
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\Segundo Parcial\conjunto_vacunados\obj\Debug\net8.0\ref\conjunto_vacunados.dll
