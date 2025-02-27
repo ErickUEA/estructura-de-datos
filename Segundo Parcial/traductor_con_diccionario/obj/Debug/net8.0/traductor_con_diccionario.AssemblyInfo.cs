@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("conjunto_vacunados")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("traductor_con_diccionario")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8c735b6fea0ce39916a65081728b7a24fa7e15e1")]
-[assembly: System.Reflection.AssemblyProductAttribute("conjunto_vacunados")]
-[assembly: System.Reflection.AssemblyTitleAttribute("conjunto_vacunados")]
+[assembly: System.Reflection.AssemblyProductAttribute("traductor_con_diccionario")]
+[assembly: System.Reflection.AssemblyTitleAttribute("traductor_con_diccionario")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.

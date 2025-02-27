@@ -1,0 +1,15 @@
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\Segundo Parcial\traductor_con_diccionario\obj\Debug\net8.0\traductor_con_diccionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\Segundo Parcial\traductor_con_diccionario\obj\Debug\net8.0\traductor_con_diccionario.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\Segundo Parcial\traductor_con_diccionario\obj\Debug\net8.0\traductor_con_diccionario.AssemblyInfo.cs
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\Segundo Parcial\traductor_con_diccionario\obj\Debug\net8.0\traductor_con_diccionario.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\Segundo Parcial\traductor_con_diccionario\obj\Debug\net8.0\traductor_con_diccionario.sourcelink.json
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\Segundo Parcial\traductor_con_diccionario\bin\Debug\net8.0\traductor_con_diccionario.exe
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\Segundo Parcial\traductor_con_diccionario\bin\Debug\net8.0\traductor_con_diccionario.deps.json
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\Segundo Parcial\traductor_con_diccionario\bin\Debug\net8.0\traductor_con_diccionario.runtimeconfig.json
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\Segundo Parcial\traductor_con_diccionario\bin\Debug\net8.0\traductor_con_diccionario.dll
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\Segundo Parcial\traductor_con_diccionario\bin\Debug\net8.0\traductor_con_diccionario.pdb
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\Segundo Parcial\traductor_con_diccionario\obj\Debug\net8.0\traductor_con_diccionario.dll
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\Segundo Parcial\traductor_con_diccionario\obj\Debug\net8.0\refint\traductor_con_diccionario.dll
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\Segundo Parcial\traductor_con_diccionario\obj\Debug\net8.0\traductor_con_diccionario.pdb
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\Segundo Parcial\traductor_con_diccionario\obj\Debug\net8.0\traductor_con_diccionario.genruntimeconfig.cache
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\Segundo Parcial\traductor_con_diccionario\obj\Debug\net8.0\ref\traductor_con_diccionario.dll
