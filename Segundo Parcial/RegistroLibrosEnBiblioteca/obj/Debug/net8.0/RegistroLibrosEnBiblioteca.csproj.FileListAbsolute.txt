@@ -1,0 +1,15 @@
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\Segundo Parcial\RegistroLibrosEnBiblioteca\bin\Debug\net8.0\RegistroLibrosEnBiblioteca.exe
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\Segundo Parcial\RegistroLibrosEnBiblioteca\bin\Debug\net8.0\RegistroLibrosEnBiblioteca.deps.json
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\Segundo Parcial\RegistroLibrosEnBiblioteca\bin\Debug\net8.0\RegistroLibrosEnBiblioteca.runtimeconfig.json
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\Segundo Parcial\RegistroLibrosEnBiblioteca\bin\Debug\net8.0\RegistroLibrosEnBiblioteca.dll
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\Segundo Parcial\RegistroLibrosEnBiblioteca\bin\Debug\net8.0\RegistroLibrosEnBiblioteca.pdb
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\Segundo Parcial\RegistroLibrosEnBiblioteca\obj\Debug\net8.0\RegistroLibrosEnBiblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\Segundo Parcial\RegistroLibrosEnBiblioteca\obj\Debug\net8.0\RegistroLibrosEnBiblioteca.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\Segundo Parcial\RegistroLibrosEnBiblioteca\obj\Debug\net8.0\RegistroLibrosEnBiblioteca.AssemblyInfo.cs
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\Segundo Parcial\RegistroLibrosEnBiblioteca\obj\Debug\net8.0\RegistroLibrosEnBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\Segundo Parcial\RegistroLibrosEnBiblioteca\obj\Debug\net8.0\RegistroLibrosEnBiblioteca.sourcelink.json
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\Segundo Parcial\RegistroLibrosEnBiblioteca\obj\Debug\net8.0\RegistroLibrosEnBiblioteca.dll
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\Segundo Parcial\RegistroLibrosEnBiblioteca\obj\Debug\net8.0\refint\RegistroLibrosEnBiblioteca.dll
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\Segundo Parcial\RegistroLibrosEnBiblioteca\obj\Debug\net8.0\RegistroLibrosEnBiblioteca.pdb
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\Segundo Parcial\RegistroLibrosEnBiblioteca\obj\Debug\net8.0\RegistroLibrosEnBiblioteca.genruntimeconfig.cache
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\Segundo Parcial\RegistroLibrosEnBiblioteca\obj\Debug\net8.0\ref\RegistroLibrosEnBiblioteca.dll
