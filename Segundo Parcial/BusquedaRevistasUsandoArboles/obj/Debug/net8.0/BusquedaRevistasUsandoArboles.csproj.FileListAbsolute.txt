@@ -1,0 +1,15 @@
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\Segundo Parcial\BusquedaRevistasUsandoArboles\bin\Debug\net8.0\BusquedaRevistasUsandoArboles.exe
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\Segundo Parcial\BusquedaRevistasUsandoArboles\bin\Debug\net8.0\BusquedaRevistasUsandoArboles.deps.json
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\Segundo Parcial\BusquedaRevistasUsandoArboles\bin\Debug\net8.0\BusquedaRevistasUsandoArboles.runtimeconfig.json
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\Segundo Parcial\BusquedaRevistasUsandoArboles\bin\Debug\net8.0\BusquedaRevistasUsandoArboles.dll
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\Segundo Parcial\BusquedaRevistasUsandoArboles\bin\Debug\net8.0\BusquedaRevistasUsandoArboles.pdb
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\Segundo Parcial\BusquedaRevistasUsandoArboles\obj\Debug\net8.0\BusquedaRevistasUsandoArboles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\Segundo Parcial\BusquedaRevistasUsandoArboles\obj\Debug\net8.0\BusquedaRevistasUsandoArboles.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\Segundo Parcial\BusquedaRevistasUsandoArboles\obj\Debug\net8.0\BusquedaRevistasUsandoArboles.AssemblyInfo.cs
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\Segundo Parcial\BusquedaRevistasUsandoArboles\obj\Debug\net8.0\BusquedaRevistasUsandoArboles.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\Segundo Parcial\BusquedaRevistasUsandoArboles\obj\Debug\net8.0\BusquedaRevistasUsandoArboles.sourcelink.json
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\Segundo Parcial\BusquedaRevistasUsandoArboles\obj\Debug\net8.0\BusquedaRevistasUsandoArboles.dll
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\Segundo Parcial\BusquedaRevistasUsandoArboles\obj\Debug\net8.0\refint\BusquedaRevistasUsandoArboles.dll
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\Segundo Parcial\BusquedaRevistasUsandoArboles\obj\Debug\net8.0\BusquedaRevistasUsandoArboles.pdb
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\Segundo Parcial\BusquedaRevistasUsandoArboles\obj\Debug\net8.0\BusquedaRevistasUsandoArboles.genruntimeconfig.cache
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\Segundo Parcial\BusquedaRevistasUsandoArboles\obj\Debug\net8.0\ref\BusquedaRevistasUsandoArboles.dll
