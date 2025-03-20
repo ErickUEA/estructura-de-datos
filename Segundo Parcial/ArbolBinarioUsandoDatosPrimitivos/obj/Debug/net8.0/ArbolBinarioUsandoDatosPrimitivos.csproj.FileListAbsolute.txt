@@ -1,0 +1,15 @@
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\Segundo Parcial\ArbolBinarioUsandoDatosPrimitivos\bin\Debug\net8.0\ArbolBinarioUsandoDatosPrimitivos.exe
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\Segundo Parcial\ArbolBinarioUsandoDatosPrimitivos\bin\Debug\net8.0\ArbolBinarioUsandoDatosPrimitivos.deps.json
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\Segundo Parcial\ArbolBinarioUsandoDatosPrimitivos\bin\Debug\net8.0\ArbolBinarioUsandoDatosPrimitivos.runtimeconfig.json
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\Segundo Parcial\ArbolBinarioUsandoDatosPrimitivos\bin\Debug\net8.0\ArbolBinarioUsandoDatosPrimitivos.dll
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\Segundo Parcial\ArbolBinarioUsandoDatosPrimitivos\bin\Debug\net8.0\ArbolBinarioUsandoDatosPrimitivos.pdb
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\Segundo Parcial\ArbolBinarioUsandoDatosPrimitivos\obj\Debug\net8.0\ArbolBinarioUsandoDatosPrimitivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\Segundo Parcial\ArbolBinarioUsandoDatosPrimitivos\obj\Debug\net8.0\ArbolBinarioUsandoDatosPrimitivos.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\Segundo Parcial\ArbolBinarioUsandoDatosPrimitivos\obj\Debug\net8.0\ArbolBinarioUsandoDatosPrimitivos.AssemblyInfo.cs
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\Segundo Parcial\ArbolBinarioUsandoDatosPrimitivos\obj\Debug\net8.0\ArbolBinarioUsandoDatosPrimitivos.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\Segundo Parcial\ArbolBinarioUsandoDatosPrimitivos\obj\Debug\net8.0\ArbolBinarioUsandoDatosPrimitivos.sourcelink.json
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\Segundo Parcial\ArbolBinarioUsandoDatosPrimitivos\obj\Debug\net8.0\ArbolBinarioUsandoDatosPrimitivos.dll
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\Segundo Parcial\ArbolBinarioUsandoDatosPrimitivos\obj\Debug\net8.0\refint\ArbolBinarioUsandoDatosPrimitivos.dll
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\Segundo Parcial\ArbolBinarioUsandoDatosPrimitivos\obj\Debug\net8.0\ArbolBinarioUsandoDatosPrimitivos.pdb
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\Segundo Parcial\ArbolBinarioUsandoDatosPrimitivos\obj\Debug\net8.0\ArbolBinarioUsandoDatosPrimitivos.genruntimeconfig.cache
+C:\Users\HP\Documents\UEA\Semestre 3\Estructura de datos\programs\Segundo Parcial\ArbolBinarioUsandoDatosPrimitivos\obj\Debug\net8.0\ref\ArbolBinarioUsandoDatosPrimitivos.dll
